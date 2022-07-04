@@ -1,7 +1,7 @@
 # Getting Started with Create React App  <a href="https://reacttour.netlify.app/">click me</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-g
+
 ## Available Scripts
 
 In the project directory, you can run:
